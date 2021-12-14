@@ -1,0 +1,1 @@
+<h1>Hello from Controller with if view exists {{$user}} </h1>
